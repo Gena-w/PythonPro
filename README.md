@@ -1,5 +1,4 @@
 # PythonPro
-# PythonPro
 [seed_books.py](app/management/commands/seed_books.py)
 
 [__init__.py](app/__init__.py)
